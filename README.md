@@ -1,2 +1,2 @@
 # Parallel-processing-Histogram-MPI-OpenMP
- a program to build a Histogram for a data readed from a txt file using parallel processing (MPI, OpenMP)
+A program to build a histogram for data read from a text file using parallel processing (MPI, OpenMP)
